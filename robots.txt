@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+Sitemap: https://www.vodkacasino.store/sitemap.xml
+Sitemap: https://vodkacasino.store/sitemap.xml
